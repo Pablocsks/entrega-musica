@@ -57,7 +57,7 @@ const songs: Song[] = [
     title: 'Night Drive',
     artist: 'Lofi Girl',
     duration: '3:10',
-    image: 'https://via.placeholder.com/300/777777/ffffff?text=Night+Drive',
+    image: 'https://via.placeholder.com/300/777777/fffff?text=Night+Drive',
   },
 ];
 
